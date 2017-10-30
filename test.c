@@ -10,6 +10,10 @@ void branch1_func(){
 	printf("this is branch1_func\n");
 }
 
+void dev_func() {
+	printf("this is a dev func\n");
+}
+
 int main() {
 	return 0;
 }
