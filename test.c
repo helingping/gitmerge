@@ -6,6 +6,10 @@ void base_func() {
 	printf("this is a crash %d\n", *p);
 }
 
+void dev_func() {
+	printf("this is a dev func\n");
+}
+
 int main() {
 	return 0;
 }
