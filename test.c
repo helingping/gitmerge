@@ -9,6 +9,9 @@ void base_func() {
 void branch2_func(){
 	printf("this is a branch2_func!\n");
 }
+void branch1_func(){
+	printf("this is branch1_func\n");
+}
 
 void dev_func() {
 	printf("this is a dev func\n");
