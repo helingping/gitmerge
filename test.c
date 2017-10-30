@@ -6,6 +6,10 @@ void base_func() {
 	printf("this is a crash %d\n", *p);
 }
 
+void branch2_func(){
+	printf("this is a branch2_func!\n");
+}
+
 int main() {
 	return 0;
 }
